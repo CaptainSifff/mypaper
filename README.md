@@ -3,6 +3,7 @@ The publication I produce during my PhD thesis.
 
 ## Introduction
 Introduce the topic on software carpentreology.
+We need to have for the introduction more content.
 
 ## Theoretical background
 theories and stuff...
