@@ -15,7 +15,7 @@ devices and things.
 Important math and scripts and things....
 
 ## Conclude it!
-things....
+Write a nice conclusion.
 
 ## Appendix
 
